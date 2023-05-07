@@ -1,3 +1,10 @@
+Mohammadreza Habibzadeh -  2296191
+
+Github: https://github.com/farzad283/Laravel_exer1
+
+WebDev: https://e2296191.webdev.cmaisonneuve.qc.ca/exercice1/home
+
+
 exercice1
 
 Vous devez créer un site web statique avec Laravel, cela peut être la présentation d’un produit, un résumé, etc.
