@@ -1,7 +1,7 @@
-Nome: Mohammadreza Habibzadeh - 2296191
+Nom: Mohammadreza Habibzadeh - 2296191
 Github : https://github.com/farzad283/Laravel_exer1.git
 WebDev: https://e2296191.webdev.cmaisonneuve.qc.ca/exercice1/home
----------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------
 La documentation: 
 1-	Créer un dossier nommé “exercice1” dans MAMP-htdocs.
 2-	Créer un nouveau projet Laravel nommé “personal” dans dossier “exercice1” avec la ligne de commande :
@@ -10,6 +10,7 @@ La documentation:
 Référence : https://startbootstrap.com/theme/personal
 4-	Utiliser la ligne de commande pour le créer un contrôleur :
 Php artisan make:controller PersonalController
+
 
 
 exercice1
